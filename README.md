@@ -1,4 +1,8 @@
 # Setting up Wazuh SIEM Homelab and Integration with Microsoft Defender
+**_Author:_** Sherif Rahim
+
+**_Original Post:_** [Link](https://medium.com/@sherifrahim/setting-up-wazuh-siem-xdr-homelab-and-integartion-of-microsoft-defender-ef7963bcb7c2)
+
 
 We are setting up a Wazuh SIEM Homelab to mimic a real-world Windows incident and virus detection scenario by integrating Wazuh with Microsoft Defender.
 
